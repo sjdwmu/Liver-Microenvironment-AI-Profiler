@@ -1,0 +1,14 @@
+output/
+__pycache__/
+data/
+*.npy
+*.pth
+*.h5
+*.nrrd
+*.tif
+*.jpg
+*.png
+*.csv
+*.xlsx
+.VSCode/
+.DS_Store
